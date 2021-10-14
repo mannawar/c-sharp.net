@@ -1,0 +1,7 @@
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\bin\Debug\GuessingAppModularized.exe.config
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\bin\Debug\GuessingAppModularized.exe
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\bin\Debug\GuessingAppModularized.pdb
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\obj\Debug\GuessingAppModularized.csprojAssemblyReference.cache
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\obj\Debug\GuessingAppModularized.csproj.CoreCompileInputs.cache
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\obj\Debug\GuessingAppModularized.exe
+D:\repo-csharp\GuessNumberModular\GuessingAppModularized\obj\Debug\GuessingAppModularized.pdb
